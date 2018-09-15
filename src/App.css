@@ -8,7 +8,7 @@ body {
 
 .wrapper {
   background: linear-gradient(to bottom right, #9ad1f7, #3787bf);
-  height: 100vh;
+  height: 120vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -55,7 +55,7 @@ body {
   background-color: transparent;
   height: 20vh;
   padding-top: 30px;
-  padding-left: 160px;
+  padding-left: 60px;
 }
 
 input[type="text"] {
@@ -121,7 +121,7 @@ button:active {
 }
 
 .weather__key:first-child {
-margin-top: 30px;
+margin-top: 20px;
 }
 
 .weather__value {
